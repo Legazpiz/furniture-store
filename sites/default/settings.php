@@ -772,4 +772,4 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['install_profile'] = 'standard';
-$config_directories['sync'] = 'sites/hiperdelmueble.dd/files/config_LXgcxI_wi9-abiVCdltPGFsWFmZuy7CQRfGB1vwOwpJmFsKPTFy7h40_nsrfulzsvhn5FZ_NIA/sync';
+$config_directories['sync'] = 'sites/furniture-store.dd/files/config_LXgcxI_wi9-abiVCdltPGFsWFmZuy7CQRfGB1vwOwpJmFsKPTFy7h40_nsrfulzsvhn5FZ_NIA/sync';
