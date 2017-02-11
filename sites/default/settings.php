@@ -762,7 +762,7 @@ if (isset($_SERVER['DEVDESKTOP_DRUPAL_SETTINGS_DIR']) && file_exists($_SERVER['D
 }
 // </DDSETTINGS>
 $databases['default']['default'] = array (
-  'database' => 'hiperdelmueble',
+  'database' => 'furniture-store',
   'username' => 'root',
   'password' => '',
   'prefix' => '',
