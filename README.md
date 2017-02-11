@@ -1,2 +1,2 @@
 # furniture-store
-Designing a furniture store website as a hoby
+Designing a furniture store website using Drupal 8, as a hoby
